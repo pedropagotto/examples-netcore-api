@@ -1,2 +1,2 @@
-# samples-netcore-api
+# examples-netcore-api
 projeto para exemplos de codigo
